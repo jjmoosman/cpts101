@@ -1,2 +1,3 @@
 # cpts101
-for an assignment
+Justin Moos
+justin.moos@wsu.edu
